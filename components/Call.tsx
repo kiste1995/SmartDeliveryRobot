@@ -3,6 +3,7 @@ import { ScrollView, Text, StyleSheet, View, Pressable } from "react-native";
 import { Image } from "expo-image";
 import DeliveryDetails from "./DeliveryDetails";
 import Mynauitelephonecallsolid from "../assets/mynauitelephonecallsolid.svg";
+import BUTTON1 from "./BUTTON1";
 import { FontFamily, FontSize, Color, Border, Padding } from "../GlobalStyles";
 
 const Call = () => {
